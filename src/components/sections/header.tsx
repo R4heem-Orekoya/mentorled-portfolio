@@ -7,7 +7,7 @@ export default function Header() {
          <h1 className="text-2xl sm:text-3xl md:text-4xl font-medium">
             Raheem Orekoya
          </h1>
-         <p className="mt-6 text-muted-foreground text-sm sm:text-base leading-snug">
+         <p className="mt-6 text-muted-foreground leading-snug">
             I'm a <span className="font-semibold text-foreground">Frontend Developer</span> who builds clean, functional interfaces 
             with a focus on simplicity and purpose. I care about thoughtful 
             details, smooth interactions, and a user experience that feels intuitive.

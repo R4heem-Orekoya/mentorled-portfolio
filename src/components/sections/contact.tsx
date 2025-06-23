@@ -3,12 +3,12 @@ import { socials } from "@/lib/consts";
 export default function Contact() {
    return (
       <section className="space-y-12">
-         <div className="flex items-center gap-4">
+         <div className="flex max-sm:flex-col sm:items-center gap-4">
             <h2 className="text-2xl md:text-3xl font-medium">Let's Connect</h2>
-            <div className="h-[1px] flex-1 bg-muted/40" />
+            <div className="h-[1px] w-full sm:flex-1 bg-muted/40" />
             <div className="flex items-center gap-2">
                <div className="size-1.5 rounded-full bg-[#83FF1D]" />
-               <p>Available for work</p>
+               <p className="text-muted-foreground">Available for work</p>
             </div>
          </div>
 
