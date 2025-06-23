@@ -11,13 +11,13 @@ export default function About() {
          
          <div className="mt-8 space-y-4">
             <p className="font-medium">
-               Hi, I’m David Smith, a web designer with 12 years of experience 
+               Hi, I’m Raheem Orekoya, a frontend developer with 3+ years of experience 
                crafting modern, high-performing websites that help businesses 
                stand out. <span className="text-muted-foreground">My passion lies in creating digital experiences that 
                are not only visually stunning but also user-friendly and results-driven.</span>
             </p>
             <p className="font-medium">
-               Hi, I’m David Smith, a web designer with 12 years of experience 
+               Hi, I’m Raheem Orekoya, a frontend developer with 3+ years of experience 
                crafting modern, high-performing websites that help businesses 
                stand out. <span className="text-muted-foreground">My passion lies in creating digital experiences that 
                are not only visually stunning but also user-friendly and results-driven.</span>
