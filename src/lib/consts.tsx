@@ -22,7 +22,7 @@ export const socials = [
    },
    {
       title: "Website",
-      link: "https://www.linkedin.com/in/babatunde-orekoya-aa5a252b7/",
+      link: "https://www.redoxx.vercel.app",
       icon: <svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24">
          <g fill="none" stroke="currentColor" strokeWidth={1.5}>
             <path d="M22 12a10 10 0 1 1-20.001 0A10 10 0 0 1 22 12Z"></path>

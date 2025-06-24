@@ -4,10 +4,10 @@ import { socials } from "@/lib/consts";
 export default function Header() {
    return (
       <header>
-         <h1 className="text-3xl md:text-4xl font-medium">
+         <h1 className="text-2xl md:text-3xl font-medium">
             Raheem Orekoya
          </h1>
-         <p className="mt-6 text-muted-foreground leading-snug">
+         <p className="mt-3 text-muted-foreground leading-snug">
             I'm a <span className="font-semibold text-foreground">Frontend Developer</span> who builds clean, functional interfaces 
             with a focus on simplicity and purpose. I care about thoughtful 
             details, smooth interactions, and a user experience that feels intuitive.
